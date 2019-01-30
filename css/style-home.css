@@ -42,6 +42,9 @@ h1 {
     width: 33%;
 }
 
+.hero #disapper{
+    display: none;
+}
 .middle{
     width: 33%;
 }
