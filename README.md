@@ -1,18 +1,18 @@
 # my-homepage
 
-##Home Page:
+## Home Page:
 * personal info
 * skills
 * hobbies
 * contact
 * message
 
-##Tech used:
+## Tech used:
 * HTML
 * Bootstrap
 * Javascript
 
-##How to install and use:
+## How to install and use:
 ```
 $ git clone https://github.com/zshang01/my-homepage.git
 $ cd my-homepage
@@ -20,11 +20,11 @@ $ open index.html
 
 ```
 
-##Link
+## Link
 
 
-##Screenshots:
+## Screenshots:
 
 
-#License
+# License
 Licensed under the [MIT License](LICENSE).
