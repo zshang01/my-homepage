@@ -26,5 +26,5 @@ $ open index.html
 ## Screenshots:
 
 
-# License
+## License
 Licensed under the [MIT License](LICENSE).
