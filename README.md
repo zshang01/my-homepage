@@ -24,6 +24,10 @@ $ open index.html
 [web-page](https://my-web-page-project.herokuapp.com/index.html)
 
 ## Screenshots:
+![](images/screen1.png)
+![](images/screen2.png)
+![](images/screen3.png)
+![](images/screen4.png)
 
 
 ## License
